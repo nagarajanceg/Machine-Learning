@@ -1,0 +1,194 @@
+Logisitc Regression:
+1)
+python3 logreg.py stop_words train test 0.06 50 1
+LR No Stop Words executing..
+Accuracy  91.63179916317992
+LR With Stop Words executing..
+Accuracy  84.72803347280335
+
+
+2)
+python3 logreg.py stop_words train test 0.06 50 3
+LR No Stop Words executing..
+Accuracy  74.05857740585773
+LR With Stop Words executing..
+Accuracy  91.84100418410041
+
+
+3)
+python3 logreg.py stop_words train test 0.06 50 6
+LR No Stop Words executing..
+Accuracy  72.80334728033473
+LR With Stop Words executing..
+Accuracy  52.30125523012552
+
+
+4)
+python3 logreg.py stop_words train test 0.06 50 10
+LR No Stop Words executing..
+Accuracy  73.43096234309623
+LR With Stop Words executing..
+Accuracy  91.21338912133892
+
+
+5)
+ python3 logreg.py stop_words train test 0.06 50 12
+LR No Stop Words executing..
+Accuracy  64.64435146443515
+LR With Stop Words executing..
+Accuracy  81.58995815899581
+
+
+6)
+python3 logreg.py stop_words train test 0.06 50 0.5
+LR No Stop Words executing..
+Accuracy  91.21338912133892
+LR With Stop Words executing..
+Accuracy  91.84100418410041
+
+
+Perceptron:
+1)
+python3 logreg.py stop_words train test 0.150 15 1.5
+Perceptron No Stop Words executing..
+Accuracy  94.14225941422593
+Perceptron With Stop Words executing..
+Accuracy  92.88702928870293
+
+
+2)
+python3 logreg.py stop_words train test 0.150 7 1.5
+Perceptron No Stop Words executing..
+Accuracy  81.17154811715481
+Perceptron With Stop Words executing..
+Accuracy  79.70711297071131
+
+3)
+python3 logreg.py stop_words train test 0.150 6 1.5
+Perceptron No Stop Words executing..
+Accuracy  76.15062761506276
+Perceptron With Stop Words executing..
+Accuracy  81.58995815899581
+
+4)
+python3 logreg.py stop_words train test 0.150 8 1.5
+Perceptron No Stop Words executing..
+Accuracy  76.15062761506276
+Perceptron With Stop Words executing..
+Accuracy  82.84518828451883
+
+5)
+python3 logreg.py stop_words train test 0.150 15 2
+Perceptron No Stop Words executing..
+Accuracy  94.14225941422593
+Perceptron With Stop Words executing..
+Accuracy  92.88702928870293
+
+
+6)
+python3 logreg.py stop_words train test 0.05 12 2
+Perceptron No Stop Words executing..
+Accuracy  91.84100418410041
+Perceptron With Stop Words executing..
+Accuracy  91.63179916317992
+
+7)
+python3 logreg.py stop_words train test 0.05 11 2
+Perceptron No Stop Words executing..
+Accuracy  84.51882845188284
+Perceptron With Stop Words executing..
+Accuracy  91.63179916317992
+
+8)
+python3 logreg.py stop_words train test 0.05 20 2
+Perceptron No Stop Words executing..
+Accuracy  93.93305439330544
+Perceptron With Stop Words executing..
+Accuracy  91.63179916317992
+
+9)
+python3 logreg.py stop_words train test 0.180 30 2
+Perceptron No Stop Words executing..
+Accuracy  92.67782426778243
+Perceptron With Stop Words executing..
+Accuracy  93.09623430962343
+
+10)
+python3 logreg.py stop_words train test 1.2 12 0.5
+Perceptron No Stop Words executing..
+Accuracy  87.65690376569037
+Perceptron With Stop Words executing..
+Accuracy  92.88702928870293
+
+11)
+python3 logreg.py stop_words train test 0.250 80 0.8
+Perceptron No Stop Words executing..
+Accuracy  93.93305439330544
+Perceptron With Stop Words executing..
+Accuracy  91.42259414225941
+
+12)
+python3 logreg.py stop_words train test 0.170 80 0.6
+Perceptron No Stop Words executing..
+Accuracy  93.93305439330544
+Perceptron With Stop Words executing..
+Accuracy  93.30543933054393
+
+13)
+python3 logreg.py stop_words train test 0.06 50 1
+Perceptron No Stop Words executing..
+Accuracy  92.88702928870293
+Perceptron With Stop Words executing..
+Accuracy  91.0041841004184
+
+14)
+python3 logreg.py stop_words train test 0.09 20 1
+Perceptron No Stop Words executing..
+Accuracy  92.67782426778243
+Perceptron With Stop Words executing..
+Accuracy  93.09623430962343
+
+
+15)
+python3 logreg.py stop_words train test 0.09 100 3
+Perceptron No Stop Words executing..
+Accuracy  92.67782426778243
+Perceptron With Stop Words executing..
+Accuracy  93.09623430962343
+
+16)
+python3 logreg.py stop_words train test 0.09 80 0.5
+Perceptron No Stop Words executing..
+Accuracy  92.67782426778243
+Perceptron With Stop Words executing..
+Accuracy  93.09623430962343
+
+17)
+python3 logreg.py stop_words train test 0.11 20 1
+Perceptron No Stop Words executing..
+Accuracy  93.72384937238493
+Perceptron With Stop Words executing..
+Accuracy  93.09623430962343
+
+18)
+python3 logreg.py stop_words train test 0.42 25 2
+Perceptron No Stop Words executing..
+Accuracy  93.09623430962343
+Perceptron With Stop Words executing..
+Accuracy  92.46861924686193
+
+
+19)
+python3 logreg.py stop_words train test 0.21 20 2
+Perceptron No Stop Words executing..
+Accuracy  93.09623430962343
+Perceptron With Stop Words executing..
+Accuracy  92.46861924686193
+
+20)
+python3 logreg.py stop_words train test 0.31 50 5
+Perceptron No Stop Words executing..
+Accuracy  93.93305439330544
+Perceptron With Stop Words executing..
+Accuracy  92.67782426778243
+
